@@ -120,7 +120,7 @@
 Скачать файл:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vps-security-audit.git
+git clone https://github.com/sheikerdc-del/VPS-Security-Audit.git
 cd vps-security-audit
 ```
 
